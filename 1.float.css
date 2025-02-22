@@ -1,0 +1,25 @@
+img{
+    width: 50%;
+}
+.img1{
+    float: right;
+}
+.box{
+    height: 50px;
+    float: left;
+}
+.kutu-1{
+  width: 20%;
+  background-color: blueviolet;  
+}
+.kutu-2{
+    width: 30%;
+    background-color: cadetblue;  
+  }
+  .kutu-3{
+    width: 40%;
+    background-color: rgb(255, 115, 0); 
+  }
+  .temizle{
+    clear: both;
+  }

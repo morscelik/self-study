@@ -1,0 +1,50 @@
+main{
+    background-color: aqua;
+    position: relative;
+}
+
+.box1{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+.box2{
+    background-color: rgb(186, 226, 43);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.box3{
+    background-color: rgb(43, 153, 226);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+.box4{
+    background-color: rgb(226, 43, 165);
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
+.icerde{
+    background-color: chocolate;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.paragraf2{
+    background-color: green;
+    border-radius: 15px;
+    padding: 20px;
+    position: sticky;
+    top: 0px;
+}
